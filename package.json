@@ -1,0 +1,26 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "To Create Rest API using node and mongod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arulvelu21/todoListApi.git"
+  },
+  "author": "Arulvelu Gunasekaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arulvelu21/todoListApi/issues"
+  },
+  "homepage": "https://github.com/arulvelu21/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
